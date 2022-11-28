@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    background-color: rgb(87, 190, 190);
+    text-shadow: 1px 1px 1px lightgray;
+}
+button {
+    border-radius: 5px;
+    border: 1px solid black;
+    height: 50px;
+    width: 100px;
+    margin: 10px;
+    box-shadow: 1px 1px 1px gray;
+}
+button:hover {
+    border: 1px solid blue;
+    background-color: white;
+}
+h1 {
+    font-size: 100px;
+}
+h2 {
+    font-size: 50px;
+}
+p {
+    font-size: 45px;
+}
